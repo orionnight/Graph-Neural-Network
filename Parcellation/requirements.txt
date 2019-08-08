@@ -1,0 +1,9 @@
+torchvision
+scikit_image
+pandas
+numpy
+setuptools
+matplotlib
+scikit_learn
+scipy
+pdb
